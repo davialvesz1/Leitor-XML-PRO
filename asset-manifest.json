@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Leitor-XML-PRO/static/css/main.c2781bd8.css",
-    "main.js": "/Leitor-XML-PRO/static/js/main.7ddfac5e.js",
+    "main.js": "/Leitor-XML-PRO/static/js/main.27be80c7.js",
     "static/js/453.3bdea708.chunk.js": "/Leitor-XML-PRO/static/js/453.3bdea708.chunk.js",
     "index.html": "/Leitor-XML-PRO/index.html",
     "main.c2781bd8.css.map": "/Leitor-XML-PRO/static/css/main.c2781bd8.css.map",
-    "main.7ddfac5e.js.map": "/Leitor-XML-PRO/static/js/main.7ddfac5e.js.map",
+    "main.27be80c7.js.map": "/Leitor-XML-PRO/static/js/main.27be80c7.js.map",
     "453.3bdea708.chunk.js.map": "/Leitor-XML-PRO/static/js/453.3bdea708.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2781bd8.css",
-    "static/js/main.7ddfac5e.js"
+    "static/js/main.27be80c7.js"
   ]
 }
